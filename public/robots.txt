@@ -1,0 +1,20 @@
+# Allow all bots
+User-agent: *
+Allow: /
+
+# Specific rules for crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Disallow admin and private areas (none for this public site)
+# Disallow: /admin
+# Disallow: /private
+
+# Sitemap
+Sitemap: https://dehydra-b2b.com/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1
