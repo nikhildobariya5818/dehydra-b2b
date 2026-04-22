@@ -56,7 +56,7 @@ Our clients report improved product quality scores and customer satisfaction rat
     slug: 'eu-green-deal-impact',
     title: 'EU Green Deal: Impact on South Asian Organic Exports',
     excerpt:
-      'Understanding the new traceability requirements and how De'Hydra's institutional standards align with 2025 mandates.',
+      'Understanding the new traceability requirements and how DeHydra&apos;s institutional standards align with 2025 mandates.',
     category: 'REGULATIONS',
     readingTime: '8 MIN READ',
     date: '2024-04-18',
