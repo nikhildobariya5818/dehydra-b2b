@@ -160,7 +160,7 @@ Effective cold-chain management is critical for maintaining product quality duri
     slug: 'aflatoxin-prevention',
     title: 'The Science of Aflatoxin Prevention in Dried Goods',
     excerpt:
-      'A deep dive into De'Hydra's multi-point testing protocols and humidity control systems.',
+      'A deep dive into DeHydra&apos;s multi-point testing protocols and humidity control systems.',
     category: 'QUALITY',
     readingTime: '5 MIN READ',
     date: '2024-04-10',

@@ -11,7 +11,6 @@ const nextConfig: NextConfig = {
     ],
     formats: ['image/avif', 'image/webp'],
   },
-  cacheComponents: true,
 }
 
 export default nextConfig
